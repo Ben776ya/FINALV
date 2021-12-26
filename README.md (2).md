@@ -2,6 +2,7 @@
 # Main Window Implementation :
 ##  Qt Main Window Framework
 _**Content Taken from**  [Here](https://doc.qt.io/qt-5/qmainwindow.html#details)_
+
 A main window provides a framework for building an application's user interface. Qt has QMainWindow and its [related classes](https://doc.qt.io/qt-5/widget-classes.html#main-window-and-related-classes) for main window management. QMainWindow has its own layout to which you can add [QToolBar](https://doc.qt.io/qt-5/qtoolbar.html)s, [QDockWidget](https://doc.qt.io/qt-5/qdockwidget.html)s, a [QMenuBar](https://doc.qt.io/qt-5/qmenubar.html), and a [QStatusBar](https://doc.qt.io/qt-5/qstatusbar.html). The layout has a center area that can be occupied by any kind of widget. You can see an image of the layout below.
 
 
