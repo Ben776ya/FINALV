@@ -163,6 +163,7 @@ void SpreadSheet::findSlot(){
      }
 ```
 _Fail CASE_
+
 ![Capture d’écran 2021-12-18 200628](https://user-images.githubusercontent.com/85891554/146653025-8af0b808-5d4e-492e-a08e-8c2a4ee0828f.png)
 
 
